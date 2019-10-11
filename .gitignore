@@ -1,2 +1,3 @@
 # ignore vscode workspace file
 *.code-workspace
+.vscode/*
